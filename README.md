@@ -9,7 +9,7 @@ You are going to be building a mini single page to-do list app. You'll want to u
 
 ## Instructions
 
-You'll be coding your solution in `index.html` and `js/todo.js`. You'll want to make sure that `index.html` has a form with a text input field, and an ordered list that the to-do list item to the list. 
+You'll be coding your solution in `index.html` and `js/todo.js`. You'll want to make sure that `index.html` has a form with a text input field and an ordered list for the items you'll be adding to your to-do list. 
 
 You'll want to bind a `submit` event to the form. The event should add the user's input to the list. You'll want to make sure the page doesn't refresh so that you can add multiple items to the list. 
 
@@ -18,3 +18,5 @@ There are tests, so make sure your work passes the tests!
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab' title='Prevent Default Lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
