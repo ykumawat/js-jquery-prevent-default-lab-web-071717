@@ -9,7 +9,7 @@ You are going to be building a mini single page to-do list app. You'll want to u
 
 ## Instructions
 
-You'll be coding your solution in `index.html` and `js/todo.js`. You'll want to make sure that `index.html` has a form with a text input field, and an ordered list that the to-do list item to the list. 
+You'll be coding your solution in `index.html` and `js/todo.js`. You'll want to make sure that `index.html` has a form with a text input field and an ordered list for the items you'll be adding to your to-do list. 
 
 You'll want to bind a `submit` event to the form. The event should add the user's input to the list. You'll want to make sure the page doesn't refresh so that you can add multiple items to the list. 
 
