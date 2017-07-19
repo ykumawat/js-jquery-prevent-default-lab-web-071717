@@ -5,7 +5,7 @@
 
 ## Intro
 
-You are going to be building a mini single page to-do list app. You'll want to use preventDefault to prevent the form submission from refreshing the page. Remember, this app is only running client-side code. We don't have a database, so if that page refreshes, you'll lose all your items on your list.
+You are going to be building a mini single page to-do list app. You'll want to use preventDefault to prevent the form submission from refreshing the page. Remember, this app is only running client-side code. We don't have a database, so if that page refreshes, you'll lose all the items on your list.
 
 ## Instructions
 
@@ -18,3 +18,5 @@ There are tests, so make sure your work passes the tests!
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab' title='Prevent Default Lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-jquery-prevent-default-lab'>Prevent Default Lab</a> on Learn.co and start learning to code for free.</p>
